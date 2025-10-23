@@ -1,2 +1,2 @@
 # Systems_Portfolio
-These projects were completed as part of coursework so I've hidden them using compression. Please unzip to access.
+As part of my coursework they cannot be easily searchable and so they are compressed.
